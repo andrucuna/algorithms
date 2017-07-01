@@ -1,0 +1,5 @@
+# File of test cases with inputs and outputs separated by a space ( ).
+#TCs = 3
+0,0,0,0,0,0 0 0,1
+2,7,11,15 9 0,1
+-1,5,8,55,32 54 0,3
