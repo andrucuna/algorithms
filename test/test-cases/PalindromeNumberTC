@@ -1,0 +1,12 @@
+# File of test cases with inputs and outputs separated by a space ( ).
+#TCs = 10
+0 true
+1 true
+-1 false
+123321 true
+3456543 true
+7659182 false
+-9876789 false
+-2147447412 false
+2147483647 false
+-2147483648 false

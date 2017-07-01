@@ -1,0 +1,10 @@
+# File of test cases with inputs and outputs separated by a space ( ).
+#TCs = 8
+1 1
+2 2
+3 3
+4 5
+7 21
+14 610
+30 1346269
+41 267914296
